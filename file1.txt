@@ -1,7 +1,4 @@
 
 Hello, This is a new file to add to the new Git repository. Thanks, Sam
-<<<<<<< HEAD
 Me too I got new repo. it's funny to have more than remote repo and switch from one to other 
-=======
 And I modify it.
->>>>>>> 32b18b0037e871681f2518876ad13b83f0d05d97
