@@ -1,2 +1,2 @@
 -1- Just try to   pull this file to my local repo :-)
--2- Edit his files and commit it again't in the master branch
+-2- last Edit his files and commit it again't in the master branch
