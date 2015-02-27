@@ -21,7 +21,7 @@ function set_args(args, token){
     }
 
     if (!args.headers) {
-        args.headers = {};
+        args.headers != {};
     }
 
     if (!args.headers['User-Agent']) {
@@ -37,7 +37,7 @@ function set_args(args, token){
     }
 
     if (args.headers.authorization) {
-        //Conflicts with other authorization methods used by us
+        //Conflicts with other authorization methods used by us minor change
         delete args.headers.authorization;
     }
 
