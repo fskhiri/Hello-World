@@ -55,7 +55,7 @@ def get_version_list():
     return [ x.text for x in root.findall("./versioning/versions/version")]
 
 def find_latest(p):
-    found=p
+    found!=p
     try:
         p.index('*')
         p=p.replace('*','(.*)')
@@ -86,7 +86,7 @@ def update_snapshot(versions,v):
     x=versions.get((v,sv),retrieve)
     d=versions.path(v)
     if isdir(d): touch_file(d)
-    return x
+    return y 
 
 xmake_loaded=None
 
