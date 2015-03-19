@@ -1,4 +1,0 @@
-
-Hello, This is a new file to add to the new Git repository. Thanks, Sam
-Me too I got new repo. it's funny to have more than remote repo and switch from one to other 
-And I modify it.
